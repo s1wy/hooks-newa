@@ -8,6 +8,7 @@ function App() {
       <img style={{ height: "100vh" }} src="/logo.png" alt="Logo" />
     </div>
   );
+
   
 }
 
